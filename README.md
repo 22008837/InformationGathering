@@ -1,4 +1,4 @@
-# InformationGathering
+# EX 2: InformationGathering
 ```
 Name: Prabha C
 Register no:212222110032
