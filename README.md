@@ -23,10 +23,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![image](https://github.com/Reebak04/InformationGathering/assets/118364993/90d1a4b1-7c61-409b-988e-86a2def2e2d6)
 ## History of the website:
 ![image](https://github.com/Reebak04/InformationGathering/assets/118364993/cceb386f-2da9-48fb-8a1b-b0376f43c776)
-
 ## webserver Footprinting :
 Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
-
 ## whois :
 ![wi1](https://github.com/Reebak04/InformationGathering/assets/118364993/61aca188-1458-4cd6-abc9-4611d0507241)
 ![wi2](https://github.com/Reebak04/InformationGathering/assets/118364993/9b4dd80f-2112-426d-b154-0be571946ce2)
@@ -46,7 +44,6 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 ![trtcp](https://github.com/Reebak04/InformationGathering/assets/118364993/1462bf8d-f5b5-45ee-a845-1b7e5a2a5fcd)
 ## UDP traceroute :
 ![trudp](https://github.com/Reebak04/InformationGathering/assets/118364993/4cda35dd-5e10-465b-9507-ac49ddf5022a)
-
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
